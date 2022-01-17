@@ -26,9 +26,11 @@
   --checkbox-checked-color: #07a8f7;
 
   /* Sidebar */
-  --sidebar-bg: #eeeeee;
-  --sidebar-muted-color: #a2a19f;
-  --sidebar-active-color: #424242;
+  --sidebar-bg: radial-gradient(circle,
+      rgba(42, 30, 107, 1) 0%,
+      rgba(35, 37, 46, 1) 100%);
+  --sidebar-muted-color: #bdb7b7;
+  --sidebar-active-color: #ffffff;
   --nav-cursor-color: #757575;
   --sidebar-btn-bg: white;
 
@@ -78,4 +80,6 @@
   --timeline-node-bg: #c2c6cc;
   --timeline-year-dot-color: #ffffff;
 
-} // light-scheme
+}
+
+// light-scheme
