@@ -20,10 +20,8 @@ title: ShifraSec                         # the main title
 tagline: Full-Stack Web developer & Penetration Tester.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
-  Web Development, Cyber Security & 
+  🌐 A minimal, blog Jekyll theme with responsive web design
+  and focuses Web Development, Cyber Security & 
   All around Computer Science related topics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
